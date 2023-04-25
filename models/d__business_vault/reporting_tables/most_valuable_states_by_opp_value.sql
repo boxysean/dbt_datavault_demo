@@ -7,3 +7,5 @@
 -- where state is not null
 --     group by
 --         state
+
+select 1
