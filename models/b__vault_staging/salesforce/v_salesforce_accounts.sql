@@ -16,6 +16,7 @@ hashed_columns:
       - "ACCOUNTID"
       - "COMPANY_NAME"
       - "CITY"
+      - "STATE"
 {%- endset -%}
 
 {% set metadata_dict = fromyaml(yaml_metadata) %}
