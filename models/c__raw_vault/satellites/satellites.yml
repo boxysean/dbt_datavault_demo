@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: sat_account_details
+    description: Satellite account details
+    columns:
+      - name: account_pk_hash
+        tests:
+          - relationships:
+              to: ref('hub_account')
+              field: ACCOUNT_PK_HASH
