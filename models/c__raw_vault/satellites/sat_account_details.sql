@@ -10,7 +10,6 @@ src_hashdiff:
 src_payload:
     - "COMPANY_NAME"
     - "CITY"
-    - "STATE"
 src_eff: "MODIFIEDDATE"
 src_ldts: "DATECREATED"
 src_source: "RECORD_SOURCE"

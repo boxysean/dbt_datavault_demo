@@ -7,7 +7,6 @@ SELECT
     lhs.oppurtunityid,
     ad.company_name,
     ad.city,
-    ad.state,
     od.amount,
     od.project_name,
     od.oppurtunity_name,

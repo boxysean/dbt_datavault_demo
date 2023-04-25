@@ -12,7 +12,6 @@ renamed as (
         companyextid as accountid,
         company_name,
         city,
-        state,
         datecreated,
         modifieddate
 
